@@ -1,0 +1,52 @@
+moshell:10.170.32.180	Skyler Ma	CXP2010046/98_R8A30 (19.Q4)	have no target parameter
+moshell:10.164.133.14	Liru Meng	CXP9024418/12_R50A06 (19.Q4)	have no target parameter
+moshell:10.164.133.16	Liru Meng	CXP9024418/6_R77A70 (19.Q4)	have no target parameter
+moshell:10.164.133.18	Liru Meng	CXP9024418/6_R73A73 (19.Q3)	have no target parameter
+moshell:10.164.133.20	Liru Meng	CXP9024418/12_R44A71 (19.Q3)	have no target parameter
+moshell:10.164.133.25	Bessie Qiao	CXP2010053/1_R50A36 (19.Q4)	have no target parameter
+moshell:10.164.133.26	Bessie Qiao	CXP2010053/1_R50A36 (19.Q4)	have no target parameter
+moshell:10.164.133.33	Wenjie Zhang	CXP2010107/1_b916576 (undefined)	have no target parameter
+moshell:10.164.133.36	Cong Wang	CXP2010053/1_R51A121 (19.Q4)	have no target parameter
+moshell:10.164.133.59	Wei Guo	CXP2010107/1_sdap05 (undefined)	have no target parameter
+moshell:10.164.133.63	Shujun Zhou	CXP2010053/1_R50A06 (19.Q4)	have no target parameter
+moshell:10.164.133.64	Shujun Zhou	CXP2010053/1_R48A161 (19.Q4)	have no target parameter
+moshell:10.164.133.65	Shujun Zhou	CXP2010053/1_R49A126 (19.Q4)	have no target parameter
+moshell:10.164.133.66	Shujun Zhou	CXP9024418/12_R44B40 (19.Q3)	have no target parameter
+moshell:10.164.133.69	Sara Wu	CXP2010053/1_R51A93 (19.Q4)	have no target parameter
+moshell:10.164.133.75	Frank Guo	CXP2010046/98_R8A21 (19.Q4)	have no target parameter
+moshell:10.164.133.85	Linpeng Yang	CXP2010053/1_P47B30 (19.Q4)	have no target parameter
+moshell:10.164.133.86	Linpeng Yang	CXP2010045/98_R6A72 (19.Q3)	have no target parameter
+moshell:10.164.133.87	Linpeng Yang	CXP2010107/1_e6cc4be (undefined)	have no target parameter
+moshell:10.164.133.93	Tony Qu	CXP2010107/1_0f38e46 (undefined)	have no target parameter
+moshell:10.164.133.99	Lingli Hou	CXP2010053/1_P47B30 (19.Q4)	have no target parameter
+moshell:10.164.133.101	Nicky Tang	CXP9024418/98_R6A14 (19.Q3)	have no target parameter
+moshell:10.164.133.108	kun yang A	CXP2010046/5_R19B35 (19.Q2)	have no target parameter
+moshell:10.164.133.109	xiaoyue yuan	CXP9024418/6_R71B34 (19.Q3)	have no target parameter
+moshell:10.164.133.113	guangdong gao	CXP2010053/1_R51A42 (19.Q4)	have no target parameter
+moshell:10.164.133.114	guangdong gao	CXP2010053/1_R51A42 (19.Q4)	have no target parameter
+moshell:10.164.133.115	ming ding	CXP2020328/1_R8A28R911A27 (19.Q4)	have no target parameter
+moshell:10.164.133.120	chao hu	CXP2010046/98_R8A21 (19.Q4)	have no target parameter
+moshell:10.164.133.124	danni qiao	CXP2010053/1_T100109 (19.Q4)	have no target parameter
+moshell:10.166.184.12	ying gao gao	CXP2010046/98_R6A36 (19.Q3)	have no target parameter
+moshell:10.166.184.13	ying gao gao	CXP2010053/1_R48A144 (19.Q4)	have no target parameter
+moshell:10.166.184.16	Bessie Qiao	CXP2010053/1_R50A83 (19.Q4)	have no target parameter
+moshell:10.166.184.17	Bessie Qiao	CXP2010053/1_R50A83 (19.Q4)	have no target parameter
+moshell:10.166.184.20	yue qin	CXP2010046/98_R8A11 (19.Q4)	have no target parameter
+moshell:10.166.184.21	honglei ma	CXP2010046/98_T100153 (19.Q4)	have no target parameter
+moshell:10.166.184.22	honglei ma	CXP2010046/98_T100153 (19.Q4)	have no target parameter
+moshell:10.166.184.27	qi yang	CXP2010046/98_R8A18 (19.Q4)	have no target parameter
+moshell:10.166.184.29	frank.guo	CXP2010046/98_R8A21 (19.Q4)	have no target parameter
+moshell:10.166.184.30	cheng su	CXP2010045/98_R6A57 (19.Q3)	have no target parameter
+moshell:10.166.184.35	Honglei Ma	CXP2010046/5_P27A115 (19.Q3)	have no target parameter
+moshell:10.166.184.37	Xiaofei Ma	CXP2010053/1_R50A143 (19.Q4)	have no target parameter
+moshell:10.166.184.38	Xiaofei Ma	CXP2010053/1_R50A143 (19.Q4)	have no target parameter
+moshell:10.166.184.44	Tommy Liu	CXP9024418/90_R1A12 (18.Q4)	have no target parameter
+moshell:10.166.184.47	Feng |Wang	CXP9024418/99_R8A26 (19.Q4)	have no target parameter
+moshell:10.166.184.48	Zhang Zhang Z	CXP2010053/99_T100147 (19.Q4)	have no target parameter
+moshell:10.166.184.49	Zhang Zhang Z	CXP2010053/99_T100147 (19.Q4)	have no target parameter
+moshell:10.166.184.51	Danni Qiao	CXP2010053/1_T100109 (19.Q4)	have no target parameter
+moshell:10.166.184.52	He Sun	CXP2010053/99_R8A22 (19.Q4)	have no target parameter
+moshell:10.166.184.54	Daqi Zhou	CXP9024418/99_R8A39 (19.Q4)	have no target parameter
+moshell:10.166.184.56	Wensheng Guo	CXP2010046/5_P27A115 (19.Q3)	have no target parameter
+moshell:10.166.184.58	Wensheng Guo	CXP2010046/98_T100139 (19.Q4)	have no target parameter
+moshell:10.166.184.60	Wenjie Zhang	CXP2010053/1_R51A106 (19.Q4)	have no target parameter
